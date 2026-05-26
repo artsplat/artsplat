@@ -1,6 +1,6 @@
 # ArtSplat: Feed-Forward Articulated 3D Gaussian Splatting from Sparse Multi-State Uncalibrated Views
 
-**[Project Page](https://artsplat.github.io/)** · arXiv (coming soon) · 🤗 Hugging Face (coming soon)
+**[Project Page](https://artsplat.github.io/)** · **[arXiv](https://arxiv.org/abs/2605.24304)** · 🤗 Hugging Face (coming soon)
 
 Inseo Lee¹, Yoonji Kim², Eugene Sohn¹, Jiwoong Lee¹, Jungmin You¹, Joonseok Lee¹†, Jin-Hwa Kim¹³†
 
@@ -28,7 +28,7 @@ Planned release:
 @article{lee2026artsplat,
   title   = {ArtSplat: Feed-Forward Articulated 3D Gaussian Splatting from Sparse Multi-State Uncalibrated Views},
   author  = {Lee, Inseo and Kim, Yoonji and Sohn, Eugene and Lee, Jiwoong and You, Jungmin and Lee, Joonseok and Kim, Jin-Hwa},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2605.24304},
   year    = {2026}
 }
 ```
