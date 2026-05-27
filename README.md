@@ -37,3 +37,4 @@ Planned release:
 
 To be determined upon code release.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=artsplat.artsplat)
